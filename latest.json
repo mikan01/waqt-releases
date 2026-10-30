@@ -1,10 +1,10 @@
 {
-  "versionName": "1.5.17",
-  "versionCode": 10517,
-  "tag": "v1.5.17",
-  "apk": "waqt-1.5.17-universal.apk",
-  "sha256": "356e91620126392d0d1e4f887d03f52c1a6add41e7d40291d5d1e1e6e7077432",
+  "versionName": "1.5.18",
+  "versionCode": 10518,
+  "tag": "v1.5.18",
+  "apk": "waqt-1.5.18-universal.apk",
+  "sha256": "08ed8ffd5d318b5ec408cc3e1786fe6ce11701033e7bddf00ed595e32323c1b5",
   "download": "https://github.com/mikan01/waqt-releases/releases/latest/download/waqt-latest.apk",
-  "downloadVersioned": "https://github.com/mikan01/waqt-releases/releases/download/v1.5.17/waqt-1.5.17-universal.apk",
-  "releasedAt": "2026-10-29T06:05:37Z"
+  "downloadVersioned": "https://github.com/mikan01/waqt-releases/releases/download/v1.5.18/waqt-1.5.18-universal.apk",
+  "releasedAt": "2026-10-30T11:43:27Z"
 }
