@@ -1,10 +1,10 @@
 {
-  "versionName": "1.5.21",
-  "versionCode": 10521,
-  "tag": "v1.5.21",
-  "apk": "waqt-1.5.21-universal.apk",
-  "sha256": "de93ac6939604cadb8ca592e8a0bd5afbc3c00d761178255025ca9d7b6e9a3de",
+  "versionName": "1.5.22",
+  "versionCode": 10522,
+  "tag": "v1.5.22",
+  "apk": "waqt-1.5.22-universal.apk",
+  "sha256": "60a7827c07d4a9a1d7ba58c258a638bc592f5438c66a3e9a6781f32b0192677b",
   "download": "https://github.com/mikan01/waqt-releases/releases/latest/download/waqt-latest.apk",
-  "downloadVersioned": "https://github.com/mikan01/waqt-releases/releases/download/v1.5.21/waqt-1.5.21-universal.apk",
-  "releasedAt": "2026-10-31T11:19:24Z"
+  "downloadVersioned": "https://github.com/mikan01/waqt-releases/releases/download/v1.5.22/waqt-1.5.22-universal.apk",
+  "releasedAt": "2026-10-31T13:36:18Z"
 }
